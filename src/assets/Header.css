@@ -1,0 +1,25 @@
+.header-container{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to bottom, #b1bbc3 0%, #e2ebf0 100%);
+    width: 100%;
+    opacity: .8;
+    overflow: hidden;
+}
+.header-container img{
+margin-left: 2%;
+}
+
+@media (max-width:600px) {
+    .header-container{
+        width: 100%;
+        margin-bottom: 10%;
+
+    }
+    .header-container img{
+        margin:0;
+        width: 90%;
+    }
+    
+}

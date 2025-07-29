@@ -1,0 +1,55 @@
+.user-card {
+  max-width: 400px;
+  width: 350px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  background-image: linear-gradient(to bottom, #b1bbc3 0%, #e2ebf0 100%);
+  
+}
+
+.user-card h2 {
+  font-size: 24px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.username {
+  color: #777;
+  margin-bottom: 10px;
+}
+
+.email {
+  color: #0066cc;
+  margin-bottom: 15px;
+}
+
+.section {
+  margin: 3% 0;
+}
+
+.section h4 {
+  margin-bottom: 4px;
+  color: #444;
+}
+
+.phone {
+  margin-bottom: 8px;
+}
+
+.website a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.website a:hover {
+  text-decoration: underline;
+}
+
+.italic {
+  font-style: italic;
+  color: #555;
+}
