@@ -45,7 +45,7 @@ body{
 }
 @media (max-width: 600px) {
     .login-container{
-        height: 25vh;
+        height: 30vh;
         margin-top: 65%;
     }
 }
